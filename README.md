@@ -1,6 +1,6 @@
 # LiuZhanheng's weekly reports
 # Week 1
-1.learning hours:aboout 10~15hours
+1.learning hours:about 10~15hours
 
 2.leaning progress:Have learned the basic and usage of C language.And now I'm about to learn the basic of linux.
 
